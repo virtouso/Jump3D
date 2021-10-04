@@ -1,0 +1,18 @@
+# File produced by AccuTrans 3D
+
+newmtl Object_000001
+       Ns 4
+       d 1
+       illum 2
+       Kd 0.000000 0.000000 0.000000
+       Ka 0.580000 0.580000 0.580000
+       Ks 0.150000 0.150000 0.150000
+
+newmtl Object_000001_1
+       Ns 4
+       d 1
+       illum 2
+       Kd 1.000000 1.000000 1.000000
+       Ka 0.580000 0.580000 0.580000
+       Ks 0.150000 0.150000 0.150000
+       map_Kd D:\Program Files\wings3d_0.98.20c\plane\wood7.jpg
